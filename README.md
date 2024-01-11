@@ -35,7 +35,7 @@
 
 `$ python -m social-agent <content-type> -u <article-url>`
 
-Ex.
+Example:
 
 <img src="readme/sa-demo.gif?raw=true"/>
 
