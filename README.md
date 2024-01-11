@@ -12,15 +12,11 @@
 - Instagram
 
 ### How to install
-1. Make a new directory
-    
-    `$ mkdir social-agent`
-
-2. Clone this repo:
+1. Clone this repo:
 
     `$ git clone https://github.com/djyogi/social-agent.git`
 
-3. Install dependencies
+2. Install dependencies
 
     `$ cd social-agent`
 
@@ -33,7 +29,7 @@
 - Add your Instagram username and password
 
 **2. Run the agent on your command line by specifying:**
-- Content type to generate
+- Content type to generate:
     - `ig-post` (Instagram post)
 - URL with your source content
 
@@ -41,7 +37,11 @@
 
 Ex.
 
-<img src="readme/sa-demo-1.gif?raw=true"/>
+<img src="readme/sa-demo.gif?raw=true"/>
+
+Output:
+
+<img src="readme/sa-example.png?raw=true"/>
 
 ## How it works (for 'ig-post')
 
