@@ -33,8 +33,9 @@
     - `ig-post` (Instagram post)
 - URL with your source content
 
-`$ cd src/`
-`$ python -m social-agent <content-type> -u <article-url>`
+    `$ cd src/`
+
+    `$ python -m social-agent <content-type> -u <article-url>`
 
 Example:
 
