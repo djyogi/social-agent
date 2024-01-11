@@ -24,7 +24,7 @@
 
 ### How to use
 
-**1. Configure your settings in `settings.cfg`:**
+**1. Configure your settings in `src/settings.cfg`:**
 - Add your OpenAI API key
 - Add your Instagram username and password
 
