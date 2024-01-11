@@ -24,7 +24,14 @@
 
 ### How to use
 
-**1. Configure your settings in `src/settings.cfg`:**
+**1. Configure your settings in `settings.cfg`:**
+
+`$ cd src/`
+
+`$ cp settings.cfg.example settings.cfg`
+
+Open `settings.cfg`
+    
 - Add your OpenAI API key
 - Add your Instagram username and password
 
@@ -33,9 +40,7 @@
     - `ig-post` (Instagram post)
 - URL with your source content
 
-    `$ cd src/`
-
-    `$ python -m social-agent <content-type> -u <article-url>`
+`$ python -m social-agent <content-type> -u <article-url>`
 
 Example:
 
