@@ -1,6 +1,6 @@
 # social-agent specific
 settings.cfg
-content/
+src/content/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
