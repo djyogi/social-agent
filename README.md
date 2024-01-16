@@ -12,9 +12,13 @@
 - Instagram
 
 ### How to install
-1. Clone this repo:
+1. Download ZIP
 
-    `$ git clone https://github.com/djyogi/social-agent.git`
+    <img src="readme/sa-download-zip.png?raw=true"/>
+
+    Or clone this repo:
+
+        `$ git clone https://github.com/djyogi/social-agent.git`
 
 2. Install dependencies
 
@@ -44,9 +48,15 @@ Open `settings.cfg`
 
 Example:
 
+#### 1. Choose an article.
+
+<img src="readme/sa-input.png?raw=true"/>
+
+#### 2. Run social-agent and provide the article.
+
 <img src="readme/sa-demo.gif?raw=true"/>
 
-Output:
+#### 3. Review your post in this folder: `content/ig_post.png` and press `<Enter>` to publish it.
 
 <img src="readme/sa-example.png?raw=true"/>
 
